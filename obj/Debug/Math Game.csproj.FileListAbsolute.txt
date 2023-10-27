@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math_Game.Forms.ClassExam.resources
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math_Game.Forms.Form_EndGameStatus.resources
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math_Game.SettingsGame_Form.resources
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Math Game\bin\Debug\Math Game.exe.config
+C:\Users\lenovo\Desktop\Math Game\bin\Debug\Math Game.exe
+C:\Users\lenovo\Desktop\Math Game\bin\Debug\Math Game.pdb
+C:\Users\lenovo\Desktop\Math Game\bin\Debug\CircularProgressBar.xml
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math_Game.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.exe
+C:\Users\lenovo\Desktop\Math Game\obj\Debug\Math Game.pdb
